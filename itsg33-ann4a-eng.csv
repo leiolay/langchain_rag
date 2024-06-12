@@ -1,5 +1,4 @@
-﻿family,controlId,enhancement,name,class,definition,supplementalGuidance,references,itSecurityFunction,itOperationsGroup,itProjects,physicalSecurityGroup,personnelSecurityGroup,learningCenter,generalTailoringAndImplementationGuidanceNotes,suggestedPriority,"suggestedForPBMMProfile
-",suggestedPBMMPlaceholderValues,PBMMProfileSpecificNotes,suggestedForSecretMMProfile,suggestedSecretMMPlaceholderValues,SecretMMProfileSpecificNotes
+﻿family,controlId,enhancement,name,class,definition,supplementalGuidance,references,itSecurityFunction,itOperationsGroup,itProjects,physicalSecurityGroup,personnelSecurityGroup,learningCenter,generalTailoringAndImplementationGuidanceNotes,suggestedPriority,suggestedForPBMMProfile,suggestedPBMMPlaceholderValues,PBMMProfileSpecificNotes,suggestedForSecretMMProfile,suggestedSecretMMPlaceholderValues,SecretMMProfileSpecificNotes
 AC,1,,ACCESS CONTROL POLICY AND PROCEDURES,Technical,"(A)	The organization develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:
 (a)	An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 (b)	Procedures to facilitate the implementation of the access control policy and associated access controls.
